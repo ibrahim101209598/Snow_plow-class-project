@@ -60,4 +60,4 @@ frontend/sensor-dashboard/  # React frontend for dashboard
 
 ## License
 
-This project is for educational purposes. 
+This project is for educational purposes. # snow_plow_machine
